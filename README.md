@@ -1,6 +1,6 @@
 # Vrinda Store – Annual Sales Dashboard 2022
 This Excel dashboard provides a complete analysis of Vrinda Store’s sales performance for the year 2022. The dashboard consolidates data on orders, sales, customer demographics, top-performing states, and order fulfillment channels.
-##Dashboard Overview
+## Dashboard Overview
 The dashboard visually represents key business insights using pivot charts, slicers, and interactive filters. It includes:
 - Category Filter
 Allows dynamic filtering of product categories such as Blouse, Kurta, Saree, Top, Western Dress, etc.
