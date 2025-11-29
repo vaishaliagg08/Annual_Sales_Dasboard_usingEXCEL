@@ -96,6 +96,8 @@ Myntra – 23.4%
 
 Others smaller share
 Amazon is the top sales channel for the store.
+
+
 <img width="1440" height="900" alt="Screenshot 2025-11-29 at 4 28 19 PM" src="https://github.com/user-attachments/assets/71c43855-e730-4b79-b004-9e848b7ac9f8" />
 
 
