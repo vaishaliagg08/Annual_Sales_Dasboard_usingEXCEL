@@ -2,22 +2,26 @@
 This Excel dashboard provides a complete analysis of Vrinda Store’s sales performance for the year 2022. The dashboard consolidates data on orders, sales, customer demographics, top-performing states, and order fulfillment channels.
 ##Dashboard Overview
 The dashboard visually represents key business insights using pivot charts, slicers, and interactive filters. It includes:
-
 - Category Filter
-
 Allows dynamic filtering of product categories such as Blouse, Kurta, Saree, Top, Western Dress, etc.
 
 - Month Filter
-
 Provides month-wise analysis of sales and orders from January to December.
 
 - Channel Filter
-
 Shows performance across channels: Amazon, Flipkart, Ajio, Meesho, Myntra, Nykaa etc.
 
-## Key Visualizations
-1. Orders vs Sales (Monthly Trend)
+## Objectives
 
+- Analyze sales trends across 12 months
+- Compare ordering behavior between men and women
+- Identify best-performing states and sales channels
+- Evaluate order fulfillment quality (delivered, returned, cancelled)
+- Understand customer purchase patterns by age groups
+
+## Key Visualizations
+
+- **Orders vs Sales (Monthly Trend)**
 A combined column + line chart compares:
 
 Sum of Sales Amount (blue bars)
@@ -28,7 +32,7 @@ Peak months: March & July
 
 Sales gradually decline after August.
 
-2. Sales – Men vs Women
+- **Sales – Men vs Women**
 
 A pie chart showing customer gender distribution.
 
@@ -38,8 +42,8 @@ Men contribute 36%
 
 Indicates women shoppers are the primary customer base.
 
-3. Order Status Breakdown
-
+- **Order Status Breakdown**
+  
 Pie chart classifying order fulfillment:
 
 Delivered – 92%
@@ -52,7 +56,7 @@ Refunded – 2%
 
 Reflects a healthy fulfillment rate.
 
-4. Top 5 States by Sales
+- **Top 5 States by Sales**
 
 Horizontal bar chart showing:
 
@@ -68,7 +72,7 @@ Tamil Nadu – ₹1.68M
 
 These are the strongest markets for Vrinda Store.
 
-5. Orders – Age vs Gender
+- **Orders – Age vs Gender**
 
 Clustered bar chart comparing order distribution by:
 
@@ -80,7 +84,7 @@ Teenagers
 
 Women dominate in every age group, especially in the Adult category.
 
-6. Order Channels
+- **Order Channels**
 
 A pie chart showing channel contribution:
 
