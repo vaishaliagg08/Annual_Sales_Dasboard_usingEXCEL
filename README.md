@@ -1,21 +1,21 @@
-#Vrinda Store – Annual Sales Dashboard 2022
+# Vrinda Store – Annual Sales Dashboard 2022
 This Excel dashboard provides a complete analysis of Vrinda Store’s sales performance for the year 2022. The dashboard consolidates data on orders, sales, customer demographics, top-performing states, and order fulfillment channels.
 ##Dashboard Overview
 The dashboard visually represents key business insights using pivot charts, slicers, and interactive filters. It includes:
 
--Category Filter
+- Category Filter
 
 Allows dynamic filtering of product categories such as Blouse, Kurta, Saree, Top, Western Dress, etc.
 
--Month Filter
+- Month Filter
 
 Provides month-wise analysis of sales and orders from January to December.
 
--Channel Filter
+- Channel Filter
 
 Shows performance across channels: Amazon, Flipkart, Ajio, Meesho, Myntra, Nykaa etc.
 
-##Key Visualizations
+## Key Visualizations
 1. Orders vs Sales (Monthly Trend)
 
 A combined column + line chart compares:
@@ -95,7 +95,7 @@ Amazon is the top sales channel for the store.
 <img width="1440" height="900" alt="Screenshot 2025-11-29 at 4 28 19 PM" src="https://github.com/user-attachments/assets/71c43855-e730-4b79-b004-9e848b7ac9f8" />
 
 
-##Insights & Business Recommendations
+## Insights & Business Recommendations
 1. Women-centric marketing
 
 Since women contribute 64% of sales, targeted campaigns (especially on Amazon & Myntra) could increase conversions.
@@ -112,7 +112,7 @@ Although the 92% delivery rate is strong, improving packaging & product accuracy
 
 September–December show declining sales. Festive promotions can revive performance.
 
-##Tools Used
+## Tools Used
 
 Microsoft Excel (Pivot Tables, Slicers, Charts)
 
